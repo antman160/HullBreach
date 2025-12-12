@@ -1,0 +1,2617 @@
+fileFormatVersion: 2
+guid: 1fa2c52d4b6d52f418ed03a7eb0287f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 695542054922775229
+    second: NicePng_8-bit-spaceship-png_3558572_0
+  - first:
+      213: 5834571059363939036
+    second: NicePng_8-bit-spaceship-png_3558572_1
+  - first:
+      213: 3238802932016668477
+    second: NicePng_8-bit-spaceship-png_3558572_2
+  - first:
+      213: 1955691702176826771
+    second: NicePng_8-bit-spaceship-png_3558572_3
+  - first:
+      213: 559467412771201503
+    second: NicePng_8-bit-spaceship-png_3558572_4
+  - first:
+      213: -2466660670044776833
+    second: NicePng_8-bit-spaceship-png_3558572_5
+  - first:
+      213: -423204559424081528
+    second: NicePng_8-bit-spaceship-png_3558572_6
+  - first:
+      213: 2021012148640661009
+    second: NicePng_8-bit-spaceship-png_3558572_7
+  - first:
+      213: 5181444713323162860
+    second: NicePng_8-bit-spaceship-png_3558572_8
+  - first:
+      213: 5161482768845762344
+    second: NicePng_8-bit-spaceship-png_3558572_9
+  - first:
+      213: 593046587252911192
+    second: NicePng_8-bit-spaceship-png_3558572_10
+  - first:
+      213: 4843807637748376299
+    second: NicePng_8-bit-spaceship-png_3558572_11
+  - first:
+      213: 2209699923003857304
+    second: NicePng_8-bit-spaceship-png_3558572_12
+  - first:
+      213: -5036515861144206422
+    second: NicePng_8-bit-spaceship-png_3558572_13
+  - first:
+      213: 3179518591259716272
+    second: NicePng_8-bit-spaceship-png_3558572_14
+  - first:
+      213: 7590614309600153238
+    second: NicePng_8-bit-spaceship-png_3558572_15
+  - first:
+      213: -1148169553256193661
+    second: NicePng_8-bit-spaceship-png_3558572_16
+  - first:
+      213: -1946144175030647978
+    second: NicePng_8-bit-spaceship-png_3558572_17
+  - first:
+      213: -5126685552446751312
+    second: NicePng_8-bit-spaceship-png_3558572_18
+  - first:
+      213: -4874050583117027051
+    second: NicePng_8-bit-spaceship-png_3558572_19
+  - first:
+      213: 3146079575210936270
+    second: NicePng_8-bit-spaceship-png_3558572_20
+  - first:
+      213: -5563020567416065559
+    second: NicePng_8-bit-spaceship-png_3558572_21
+  - first:
+      213: -1041091292635081730
+    second: NicePng_8-bit-spaceship-png_3558572_22
+  - first:
+      213: 4485301945585323353
+    second: NicePng_8-bit-spaceship-png_3558572_23
+  - first:
+      213: -3197995446029854419
+    second: NicePng_8-bit-spaceship-png_3558572_24
+  - first:
+      213: 8661550357341372028
+    second: NicePng_8-bit-spaceship-png_3558572_25
+  - first:
+      213: -5927732496249289407
+    second: NicePng_8-bit-spaceship-png_3558572_26
+  - first:
+      213: 2127781109425686118
+    second: NicePng_8-bit-spaceship-png_3558572_27
+  - first:
+      213: -2051953840500197974
+    second: NicePng_8-bit-spaceship-png_3558572_28
+  - first:
+      213: -3403879149514499296
+    second: NicePng_8-bit-spaceship-png_3558572_29
+  - first:
+      213: 3609368540158603328
+    second: NicePng_8-bit-spaceship-png_3558572_30
+  - first:
+      213: 8019265712345622081
+    second: NicePng_8-bit-spaceship-png_3558572_31
+  - first:
+      213: 957292608380246824
+    second: NicePng_8-bit-spaceship-png_3558572_32
+  - first:
+      213: 6325388716022077831
+    second: NicePng_8-bit-spaceship-png_3558572_33
+  - first:
+      213: -1489624961183333224
+    second: NicePng_8-bit-spaceship-png_3558572_34
+  - first:
+      213: 9094930104872408077
+    second: NicePng_8-bit-spaceship-png_3558572_35
+  - first:
+      213: -6279295233248753199
+    second: NicePng_8-bit-spaceship-png_3558572_36
+  - first:
+      213: -9047717632090970560
+    second: NicePng_8-bit-spaceship-png_3558572_37
+  - first:
+      213: -3634795178246454654
+    second: NicePng_8-bit-spaceship-png_3558572_38
+  - first:
+      213: 7369232802034782033
+    second: NicePng_8-bit-spaceship-png_3558572_39
+  - first:
+      213: 5771925566676633062
+    second: NicePng_8-bit-spaceship-png_3558572_40
+  - first:
+      213: 8508473851731478803
+    second: NicePng_8-bit-spaceship-png_3558572_41
+  - first:
+      213: 6816305744025386547
+    second: NicePng_8-bit-spaceship-png_3558572_42
+  - first:
+      213: 2421509122645210549
+    second: NicePng_8-bit-spaceship-png_3558572_43
+  - first:
+      213: -8839341519310855315
+    second: NicePng_8-bit-spaceship-png_3558572_44
+  - first:
+      213: 4945381556166951424
+    second: NicePng_8-bit-spaceship-png_3558572_45
+  - first:
+      213: -3299486985315169518
+    second: NicePng_8-bit-spaceship-png_3558572_46
+  - first:
+      213: -5282223351778249149
+    second: NicePng_8-bit-spaceship-png_3558572_47
+  - first:
+      213: -774686067496966771
+    second: NicePng_8-bit-spaceship-png_3558572_48
+  - first:
+      213: -7059646906944406541
+    second: NicePng_8-bit-spaceship-png_3558572_49
+  - first:
+      213: 134583962130029634
+    second: NicePng_8-bit-spaceship-png_3558572_50
+  - first:
+      213: 5367370144094984926
+    second: NicePng_8-bit-spaceship-png_3558572_51
+  - first:
+      213: -7574038900771311582
+    second: NicePng_8-bit-spaceship-png_3558572_52
+  - first:
+      213: 198816346458091686
+    second: NicePng_8-bit-spaceship-png_3558572_53
+  - first:
+      213: -3582394606854776204
+    second: NicePng_8-bit-spaceship-png_3558572_54
+  - first:
+      213: -6644735000424053966
+    second: NicePng_8-bit-spaceship-png_3558572_55
+  - first:
+      213: -70219006442147232
+    second: NicePng_8-bit-spaceship-png_3558572_56
+  - first:
+      213: -6634731733770391099
+    second: NicePng_8-bit-spaceship-png_3558572_57
+  - first:
+      213: -4418587148634375650
+    second: NicePng_8-bit-spaceship-png_3558572_58
+  - first:
+      213: 9161136518102730065
+    second: NicePng_8-bit-spaceship-png_3558572_59
+  - first:
+      213: 5727290751517079032
+    second: NicePng_8-bit-spaceship-png_3558572_60
+  - first:
+      213: 7649085280274675973
+    second: NicePng_8-bit-spaceship-png_3558572_61
+  - first:
+      213: 3418147039713246369
+    second: NicePng_8-bit-spaceship-png_3558572_62
+  - first:
+      213: 2498636154332692612
+    second: NicePng_8-bit-spaceship-png_3558572_63
+  - first:
+      213: 7580898364991336524
+    second: NicePng_8-bit-spaceship-png_3558572_64
+  - first:
+      213: -7643977348630730382
+    second: NicePng_8-bit-spaceship-png_3558572_65
+  - first:
+      213: 6903227194318752501
+    second: NicePng_8-bit-spaceship-png_3558572_66
+  - first:
+      213: -8638951093404605541
+    second: NicePng_8-bit-spaceship-png_3558572_67
+  - first:
+      213: 8579387075600106
+    second: NicePng_8-bit-spaceship-png_3558572_68
+  - first:
+      213: -4487287064125976821
+    second: NicePng_8-bit-spaceship-png_3558572_69
+  - first:
+      213: -7089967757997482532
+    second: NicePng_8-bit-spaceship-png_3558572_70
+  - first:
+      213: 1176271960475370009
+    second: NicePng_8-bit-spaceship-png_3558572_71
+  - first:
+      213: -8964297615044713952
+    second: NicePng_8-bit-spaceship-png_3558572_72
+  - first:
+      213: 4162612431207151877
+    second: NicePng_8-bit-spaceship-png_3558572_73
+  - first:
+      213: 6108373624562098623
+    second: NicePng_8-bit-spaceship-png_3558572_74
+  - first:
+      213: 1618512103416074323
+    second: NicePng_8-bit-spaceship-png_3558572_75
+  - first:
+      213: -2543660978207919218
+    second: NicePng_8-bit-spaceship-png_3558572_76
+  - first:
+      213: 6524291967442956207
+    second: NicePng_8-bit-spaceship-png_3558572_77
+  - first:
+      213: 3089444430858495898
+    second: NicePng_8-bit-spaceship-png_3558572_78
+  - first:
+      213: -3911942516123508920
+    second: NicePng_8-bit-spaceship-png_3558572_79
+  - first:
+      213: 7125525335021269202
+    second: NicePng_8-bit-spaceship-png_3558572_80
+  - first:
+      213: 3192614845302845369
+    second: NicePng_8-bit-spaceship-png_3558572_81
+  - first:
+      213: 3713779991600548858
+    second: NicePng_8-bit-spaceship-png_3558572_82
+  - first:
+      213: 2727103523590400412
+    second: NicePng_8-bit-spaceship-png_3558572_83
+  - first:
+      213: -7561784911176676429
+    second: NicePng_8-bit-spaceship-png_3558572_84
+  - first:
+      213: -5824544993038184534
+    second: NicePng_8-bit-spaceship-png_3558572_85
+  - first:
+      213: 6965395310043263128
+    second: NicePng_8-bit-spaceship-png_3558572_86
+  - first:
+      213: 5604617920358390707
+    second: NicePng_8-bit-spaceship-png_3558572_87
+  - first:
+      213: -74868018476211048
+    second: NicePng_8-bit-spaceship-png_3558572_88
+  - first:
+      213: 8882631509693203246
+    second: NicePng_8-bit-spaceship-png_3558572_89
+  - first:
+      213: 1076791184836428582
+    second: NicePng_8-bit-spaceship-png_3558572_90
+  - first:
+      213: 1118718211419772068
+    second: NicePng_8-bit-spaceship-png_3558572_91
+  - first:
+      213: 2237933595978642513
+    second: NicePng_8-bit-spaceship-png_3558572_92
+  - first:
+      213: -9072305503918720111
+    second: NicePng_8-bit-spaceship-png_3558572_93
+  - first:
+      213: -8115680596806709549
+    second: NicePng_8-bit-spaceship-png_3558572_94
+  - first:
+      213: 561431477256271817
+    second: NicePng_8-bit-spaceship-png_3558572_95
+  - first:
+      213: 1987364389336405993
+    second: NicePng_8-bit-spaceship-png_3558572_96
+  - first:
+      213: 5776239620161369322
+    second: NicePng_8-bit-spaceship-png_3558572_97
+  - first:
+      213: 271816292173964925
+    second: NicePng_8-bit-spaceship-png_3558572_98
+  - first:
+      213: 6564675876194808469
+    second: NicePng_8-bit-spaceship-png_3558572_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba640650df07a900800000000000000
+      internalID: 695542054922775229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 407
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd28922377f88f050800000000000000
+      internalID: 5834571059363939036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 404
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fd8545b1a82fc20800000000000000
+      internalID: 3238802932016668477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 404
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395cd6ecd33042b10800000000000000
+      internalID: 1955691702176826771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 404
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd162a1d5a0a3c700800000000000000
+      internalID: 559467412771201503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 404
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76dd848039a4cdd0800000000000000
+      internalID: -2466660670044776833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 404
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881b33802b9702af0800000000000000
+      internalID: -423204559424081528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 404
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11eb97667d31c0c10800000000000000
+      internalID: 2021012148640661009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_8
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 404
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cece3f8a38038e740800000000000000
+      internalID: 5181444713323162860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_9
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 404
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fe9574b3541a740800000000000000
+      internalID: 5161482768845762344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 359
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ca770aabcea3800800000000000000
+      internalID: 593046587252911192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 359
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2e0580269a83340800000000000000
+      internalID: 4843807637748376299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 359
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8995ada5f5e6aae10800000000000000
+      internalID: 2209699923003857304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 359
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa301e64283ba1ab0800000000000000
+      internalID: -5036515861144206422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_14
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 359
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba29cc105bef1c20800000000000000
+      internalID: 3179518591259716272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 359
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ec6be6f77475960800000000000000
+      internalID: 7590614309600153238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_16
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 359
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381ee34efd1e010f0800000000000000
+      internalID: -1148169553256193661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_17
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 359
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6534a951f28edf4e0800000000000000
+      internalID: -1946144175030647978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_18
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 359
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdb84307aa5ad8b0800000000000000
+      internalID: -5126685552446751312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_19
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 362
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519260881d4eb5cb0800000000000000
+      internalID: -4874050583117027051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec74f8b74be19ab20800000000000000
+      internalID: 3146079575210936270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 314
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e139f0a44e2cc2b0800000000000000
+      internalID: -5563020567416065559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_22
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 314
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3dbbb3cfc4d81f0800000000000000
+      internalID: -1041091292635081730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_23
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 314
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d4bf8fa5efe3e30800000000000000
+      internalID: 4485301945585323353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_24
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 314
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29d216e5107e93d0800000000000000
+      internalID: -3197995446029854419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 314
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e7d7db822043870800000000000000
+      internalID: 8661550357341372028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_26
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 314
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145858d73b67cbda0800000000000000
+      internalID: -5927732496249289407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_27
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 314
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666ca1345a5678d10800000000000000
+      internalID: 2127781109425686118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_28
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 314
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5bc719adef583e0800000000000000
+      internalID: -2051953840500197974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_29
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 314
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b54d2b2fdf2c0d0800000000000000
+      internalID: -3403879149514499296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040bf93609d071230800000000000000
+      internalID: 3609368540158603328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 272
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146a4df6da72a4f60800000000000000
+      internalID: 8019265712345622081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_32
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 269
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b9c9c2e8cf84d00800000000000000
+      internalID: 957292608380246824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_33
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 269
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78992cc168b48c750800000000000000
+      internalID: 6325388716022077831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_34
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 269
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894cc1c7df9c35be0800000000000000
+      internalID: -1489624961183333224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 269
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d041ded4ebea73e70800000000000000
+      internalID: 9094930104872408077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_36
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 269
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9876621467bd8a0800000000000000
+      internalID: -6279295233248753199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_37
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 269
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046ed2f10cc007280800000000000000
+      internalID: -9047717632090970560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_38
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 269
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28241591b0d9e8dc0800000000000000
+      internalID: -3634795178246454654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_39
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 272
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f80788036c44660800000000000000
+      internalID: 7369232802034782033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 224
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e581cfc8bff91050800000000000000
+      internalID: 5771925566676633062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 224
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319872963eb241670800000000000000
+      internalID: 8508473851731478803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_42
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 224
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e7619b5f1689e50800000000000000
+      internalID: 6816305744025386547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_43
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 224
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5b2a3a7bdea9120800000000000000
+      internalID: 2421509122645210549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_44
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 224
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d636d1598b9545580800000000000000
+      internalID: -8839341519310855315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_45
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0028916d25681a440800000000000000
+      internalID: 4945381556166951424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_46
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 224
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bc34b711ed532d0800000000000000
+      internalID: -3299486985315169518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_47
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 224
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346fbf419d5c1b6b0800000000000000
+      internalID: -5282223351778249149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_48
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 224
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8526664023cf35f0800000000000000
+      internalID: -774686067496966771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_49
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 224
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbb4efaa88170e90800000000000000
+      internalID: -7059646906944406541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c993786632ed100800000000000000
+      internalID: 134583962130029634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_51
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 179
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda91d065babc7a40800000000000000
+      internalID: 5367370144094984926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_52
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 179
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220398cafbb93e690800000000000000
+      internalID: -7574038900771311582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_53
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 179
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0fc2ae96652c200800000000000000
+      internalID: 198816346458091686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_54
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 179
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a552dd517c84ec0800000000000000
+      internalID: -3582394606854776204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 179
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2338e11f8b829c3a0800000000000000
+      internalID: -6644735000424053966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_56
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 179
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062f8888f28860ff0800000000000000
+      internalID: -70219006442147232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_57
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 179
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1ba94f3a2bce3a0800000000000000
+      internalID: -6634731733770391099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_58
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 179
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1aba8426660ea2c0800000000000000
+      internalID: -4418587148634375650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_59
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 179
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1554f5c1025e22f70800000000000000
+      internalID: 9161136518102730065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f53e81189c6b7f40800000000000000
+      internalID: 5727290751517079032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 134
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509f07b2982072a60800000000000000
+      internalID: 7649085280274675973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_62
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 134
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac392c5f92bf6f20800000000000000
+      internalID: 3418147039713246369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_63
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 134
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480c2f11850fca220800000000000000
+      internalID: 2498636154332692612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_64
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 137
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40f5abc5e2c43960800000000000000
+      internalID: 7580898364991336524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 134
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279abb7d9132be590800000000000000
+      internalID: -7643977348630730382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_66
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 134
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa8f21fe803dcf50800000000000000
+      internalID: 6903227194318752501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_67
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 134
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9365ad60c74c1880800000000000000
+      internalID: -8638951093404605541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_68
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 137
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee180738ea7e1000800000000000000
+      internalID: 8579387075600106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_69
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 134
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fc0999034f9b1c0800000000000000
+      internalID: -4487287064125976821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd569b63ef5b9d90800000000000000
+      internalID: -7089967757997482532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_71
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 89
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912036bad15f25010800000000000000
+      internalID: 1176271960475370009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_72
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 89
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022e06260da689380800000000000000
+      internalID: -8964297615044713952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_73
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 92
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5093ab3a3f194c930800000000000000
+      internalID: 4162612431207151877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_74
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 89
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1a36fa27d45c450800000000000000
+      internalID: 6108373624562098623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_75
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 89
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35019ccce2c167610800000000000000
+      internalID: 1618512103416074323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_76
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 89
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83f4e431d913bcd0800000000000000
+      internalID: -2543660978207919218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_77
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 89
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf2f5a2af0fa8a50800000000000000
+      internalID: 6524291967442956207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_78
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 89
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9721ae5759efda20800000000000000
+      internalID: 3089444430858495898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_79
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 89
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fd5b8020df5b9c0800000000000000
+      internalID: -3911942516123508920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d03dff1a83f2e260800000000000000
+      internalID: 7125525335021269202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_81
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 44
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf2aee59427e4c20800000000000000
+      internalID: 3192614845302845369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_82
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 44
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbcd45d93ff98330800000000000000
+      internalID: 3713779991600548858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_83
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 44
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c996255b43e98d520800000000000000
+      internalID: 2727103523590400412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_84
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 44
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbc765ffa42f0790800000000000000
+      internalID: -7561784911176676429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_85
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 44
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafcda7403f0b2fa0800000000000000
+      internalID: -5824544993038184534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_86
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 44
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890fc47512e0aa060800000000000000
+      internalID: 6965395310043263128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_87
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 44
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb10c4dd4a97cd40800000000000000
+      internalID: 5604617920358390707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_88
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 47
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89420b11fe306fef0800000000000000
+      internalID: -74868018476211048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_89
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 44
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2384fdbb42754b70800000000000000
+      internalID: 8882631509693203246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6238275a0e781fe00800000000000000
+      internalID: 1076791184836428582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_91
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a49f6b394c768f00800000000000000
+      internalID: 1118718211419772068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_92
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154383b9fbcbe0f10800000000000000
+      internalID: 2237933595978642513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_93
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b7a191632b81280800000000000000
+      internalID: -9072305503918720111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_94
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de4ec4fe7f4f5f80800000000000000
+      internalID: -8115680596806709549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7359734fa9ac700800000000000000
+      internalID: 561431477256271817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_96
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e758a1f169849b10800000000000000
+      internalID: 1987364389336405993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_97
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae47149a453592050800000000000000
+      internalID: 5776239620161369322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_98
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 0
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7661334a7fa5c300800000000000000
+      internalID: 271816292173964925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_8-bit-spaceship-png_3558572_99
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592fa22ade96a1b50800000000000000
+      internalID: 6564675876194808469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
